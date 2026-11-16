@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="Practica1PSP" path="$PROJECT_DIR$/Practica1PSP" />
+    <project name="ExamenMultiHilo" path="$PROJECT_DIR$/ExamenMultiHilo" />
+    <project name="PracticoMultiHilo" path="$PROJECT_DIR$/PracticoMultiHilo" />
+    <project name="EjerciciosDePractica" path="$PROJECT_DIR$/EjerciciosDePractica" />
+    <project name="RepasoExamenPSPtema1" path="$PROJECT_DIR$/RepasoExamenPSPtema1" />
+    <option name="workspace" value="true" />
+  </component>
+</project>
