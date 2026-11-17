@@ -6,6 +6,7 @@
     <project name="PracticoMultiHilo" path="$PROJECT_DIR$/PracticoMultiHilo" />
     <project name="EjerciciosDePractica" path="$PROJECT_DIR$/EjerciciosDePractica" />
     <project name="RepasoExamenPSPtema1" path="$PROJECT_DIR$/RepasoExamenPSPtema1" />
+    <project name="MultiplayerLobby" path="$PROJECT_DIR$/MultiplayerLobby" />
     <option name="workspace" value="true" />
   </component>
 </project>

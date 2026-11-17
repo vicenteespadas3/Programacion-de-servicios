@@ -1,3 +1,5 @@
+package multiplayerlobby;
+
 public class Cliente {
 
     private static final int CAPACIDAD_MAXIMA = 5;
